@@ -1,0 +1,82 @@
+﻿  Game.cpp
+  Level.cpp
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Level.cpp(199,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Level.cpp(205,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  LevelFive.cpp
+  LevelFour.cpp
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelFour.cpp(5,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  LevelOne.cpp
+  LevelScreen.cpp
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(34,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(34,51): warning C4244:         with
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(34,51): warning C4244:         [
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(34,51): warning C4244:             T=float
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(34,51): warning C4244:         ]
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(34,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(34,43): warning C4244:         with
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(34,43): warning C4244:         [
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(34,43): warning C4244:             T=float
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(34,43): warning C4244:         ]
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(148,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(148,49): warning C4244:         with
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(148,49): warning C4244:         [
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(148,49): warning C4244:             T=float
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(148,49): warning C4244:         ]
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(148,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(148,41): warning C4244:         with
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(148,41): warning C4244:         [
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(148,41): warning C4244:             T=float
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(148,41): warning C4244:         ]
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(156,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(156,49): warning C4244:         with
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(156,49): warning C4244:         [
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(156,49): warning C4244:             T=float
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(156,49): warning C4244:         ]
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(156,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(156,41): warning C4244:         with
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(156,41): warning C4244:         [
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(156,41): warning C4244:             T=float
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\LevelScreen.cpp(156,41): warning C4244:         ]
+  LevelThree.cpp
+  LevelTwo.cpp
+  Menu.cpp
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(77,81): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(77,81): warning C4244:         with
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(77,81): warning C4244:         [
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(77,81): warning C4244:             T=int
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(77,81): warning C4244:         ]
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(77,81): warning C4244:         and
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(77,81): warning C4244:         [
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(77,81): warning C4244:             T=float
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(77,81): warning C4244:         ]
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(77,69): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(77,69): warning C4244:         with
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(77,69): warning C4244:         [
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(77,69): warning C4244:             T=int
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(77,69): warning C4244:         ]
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(77,69): warning C4244:         and
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(77,69): warning C4244:         [
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(77,69): warning C4244:             T=float
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(77,69): warning C4244:         ]
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(86,85): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(86,85): warning C4244:         with
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(86,85): warning C4244:         [
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(86,85): warning C4244:             T=int
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(86,85): warning C4244:         ]
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(86,85): warning C4244:         and
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(86,85): warning C4244:         [
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(86,85): warning C4244:             T=float
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(86,85): warning C4244:         ]
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(86,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(86,73): warning C4244:         with
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(86,73): warning C4244:         [
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(86,73): warning C4244:             T=int
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(86,73): warning C4244:         ]
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(86,73): warning C4244:         and
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(86,73): warning C4244:         [
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(86,73): warning C4244:             T=float
+C:\Users\Menahil\source\repos\OOP\oop_project\oop_project\Menu.cpp(86,73): warning C4244:         ]
+  PlantFactory.cpp
+  Walnut.cpp
+  Generating Code...
+  oop_project.vcxproj -> C:\Users\Menahil\source\repos\OOP\oop_project\x64\Debug\oop_project.exe
